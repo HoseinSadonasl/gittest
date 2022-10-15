@@ -41,3 +41,35 @@ fun DefaultPreview() {
         Greeting("Android")
     }
 }
+
+@Preview(showBackground = true)
+@Composable
+fun DefaultPreview() {
+    ComposeNavigationTestTheme {
+        Greeting("Android")
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun DefaultPreview() {
+    ComposeNavigationTestTheme {
+        Greeting("Android")
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun DefaultPreview() {
+    ComposeNavigationTestTheme {
+        Greeting("Android")
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun DefaultPreview() {
+    ComposeNavigationTestTheme {
+        Greeting("Android")
+    }
+}
